@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "neurimboGothicRegular"; /* This is the name you'll use in MJML */
-  src: url("https://raw.githubusercontent.com/mannerism/custom-fonts/blob/main/neurimboGothicRegular.woff2")
+  font-family: "neurimboGothicRegular";
+  src: url("https://raw.githubusercontent.com/mannerism/custom-fonts/main/neurimboGothicRegular.woff2")
     format("woff2");
   font-weight: normal;
   font-style: normal;
